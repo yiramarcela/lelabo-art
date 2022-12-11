@@ -75,7 +75,7 @@ img {
   -moz-transition: all 0.7s;
   transition: all 0.7s;
   box-shadow: -2px 0 10px 2px;
-  opacity: 0.85;
+  /* opacity: 0.85; */
   /*object-fit: cover;*/
   /*mix-blend-mode: multiply;*/
 }
@@ -92,7 +92,7 @@ img {
 
 .galerie .galerieItem:hover {
   width: 35vw;
-  opacity: 1;
+  /* opacity: 1; */
   mix-blend-mode: normal;
   flex-grow: 2;
   

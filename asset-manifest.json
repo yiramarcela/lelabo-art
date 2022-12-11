@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/lelabo-art/static/css/main.bc09c11b.chunk.css",
+    "main.css": "/lelabo-art/static/css/main.ba9ba235.chunk.css",
     "main.js": "/lelabo-art/static/js/main.6577584c.chunk.js",
     "main.js.map": "/lelabo-art/static/js/main.6577584c.chunk.js.map",
     "runtime-main.js": "/lelabo-art/static/js/runtime-main.5c4eee11.js",
@@ -12,7 +12,7 @@
     "static/js/3.7827be5e.chunk.js.map": "/lelabo-art/static/js/3.7827be5e.chunk.js.map",
     "index.html": "/lelabo-art/index.html",
     "static/css/2.78f0d22f.chunk.css.map": "/lelabo-art/static/css/2.78f0d22f.chunk.css.map",
-    "static/css/main.bc09c11b.chunk.css.map": "/lelabo-art/static/css/main.bc09c11b.chunk.css.map",
+    "static/css/main.ba9ba235.chunk.css.map": "/lelabo-art/static/css/main.ba9ba235.chunk.css.map",
     "static/js/2.d0e056ff.chunk.js.LICENSE.txt": "/lelabo-art/static/js/2.d0e056ff.chunk.js.LICENSE.txt",
     "static/media/lesalon.css": "/lelabo-art/static/media/imageIcon.6efc1d30.png",
     "static/media/lelabo.css": "/lelabo-art/static/media/laboIcon.d40c33f6.png"
@@ -21,7 +21,7 @@
     "static/js/runtime-main.5c4eee11.js",
     "static/css/2.78f0d22f.chunk.css",
     "static/js/2.d0e056ff.chunk.js",
-    "static/css/main.bc09c11b.chunk.css",
+    "static/css/main.ba9ba235.chunk.css",
     "static/js/main.6577584c.chunk.js"
   ]
 }

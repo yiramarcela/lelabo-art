@@ -78,6 +78,7 @@ img {
   /* opacity: 0.85; */
   /*object-fit: cover;*/
   /*mix-blend-mode: multiply;*/
+  opacity: initial !important;
 }
 
 .galerie .galerieItem:first-child {
@@ -93,6 +94,7 @@ img {
 .galerie .galerieItem:hover {
   width: 35vw;
   /* opacity: 1; */
+  opacity: initial !important;
   mix-blend-mode: normal;
   flex-grow: 2;
   
